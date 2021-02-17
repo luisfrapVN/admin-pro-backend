@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+const mongoose = require('mongoose');
 const dbConnection = async () => {
   // <-- Al poner async hacemos que mande una promesa
 
